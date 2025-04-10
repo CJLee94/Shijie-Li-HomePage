@@ -57,10 +57,14 @@ education:
     date_start: 2019-09-01
     date_end: 2024-08-24
     summary: |
-      Thesis on _Semi-Supervised Machine Learning Techniques for Medical Image Denoising and Segmentation_. Supervised by [Prof Guido Gerig](http://engineering.nyu.edu/~gerig/). Presented papers at 3 IEEE conferences.
+      Thesis on _Semi-Supervised Machine Learning Techniques for Medical Image Denoising and Segmentation_. Supervised by [Prof Guido Gerig](http://engineering.nyu.edu/~gerig/). Presented papers at 3 IEEE conferences and 1 Springer Edition Conference.
     button:
       text: 'Read Thesis'
       url: 'https://www.proquest.com/openview/236f193fab732040175ee6b3ad2c1aa6/1?cbl=18750&diss=y&pq-origsite=gscholar'
+    Projects:
+      - Implemented a self-supervised 3D medical image denoising framework integrating slice-to-slice registration and reconstruction, combining domain expertise with machine learning. This innovation enabled clinicians to detect fine anatomical details without costly equipment while eliminating manual annotation requirements.
+      - Developed a point-supervised GAN framework for generating paired images and segmentation masks, achieving accuracy comparable to fully-annotated training approaches while significantly reducing clinical annotation burden. This breakthrough enabled large-scale automation of 3D medical image segmentation.
+      - Implemented an advanced noise correction system for large language model outputs using area under the margin (AUM) ranking methodologies, enhancing model performance and reliability in critical applications.
   - area: MEng Electrical Engineering
     institution: New York University
     date_start: 2016-09-01
@@ -68,19 +72,19 @@ education:
     summary: |
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Machine Learning
+      - 'Image & Video Processing'
+      - 'System Optimization Methods'
   - area: BSc Electrical Engineering
     institution: Beijing Jiaotong University
     date_start: 2012-09-01
     date_end: 2016-05-31
-    summary: |
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    # summary: |
+    #  
+    #  Courses included:
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Machine Learning Scientist
     company_name: U.S. Food and Drug Administration
@@ -90,9 +94,9 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Engineered advanced digital pathology image and segmentation mask generative models utilizing shape-based constraints, with architecture designed for seamless extension to 3D volumetric applications.
+      - Pioneered high-fidelity digital pathology image synthesis techniques implementing denoising diffusion probabilistic models, achieving superior texture and clinical feature preservation.
+      - Developed robust evaluation metrics for synthetic medical images to assess their utility in downstream machine learning tasks, leveraging large-scale foundation models to ensure reliable performance benchmarking.
   - position: Machine Learning Intern
     company_name: Canon Medical Research Institute USA, Inc.
     company_url: 'https://www.research.us.medical.canon/'
@@ -101,9 +105,9 @@ work:
     date_end: 2022-12-09
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developed a deep learning algorithm for X-ray image noise reduction and signal enhancement
+      - 'Transformed research concept into patent-worthy technology to be deployed in next-generation Alphenix/Evolve Edition'
+      - 'Patent filed with USPTO (Attorney Docket Number: 546053US, 547638US)'
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
