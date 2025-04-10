@@ -35,11 +35,12 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I'm a machine learning researcher focused on developing innovative generative models and multimodal AI systems that solve real-world problems in healthcare and medical imaging. My work bridges the gap between cutting-edge AI theory and practical applications where data is limited or annotation is challenging.
+        My research explores how diffusion models and GANs can be leveraged to generate high-fidelity medical images and segmentation masks with minimal supervision. I'm particularly interested in self-supervised and weakly-supervised learning approaches that reduce the annotation burden while maintaining high performance.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        Current projects include digital pathology image synthesis, shape-constrained generative models for medical applications, and noise correction systems for large language model outputs. My goal is to develop AI tools that enhance diagnostic capabilities and improve healthcare outcomes through novel computational approaches.
+
+        Please reach out if you're interested in collaborating on research at the intersection of generative AI and healthcare! 😃
     design:
       columns: '1'
   - block: collection
