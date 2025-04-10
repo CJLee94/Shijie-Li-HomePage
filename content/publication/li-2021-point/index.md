@@ -15,4 +15,9 @@ publication_types:
 - paper-conference
 publication: '*2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI)*'
 doi: 10.1109/ISBI48211.2021.9434067
+featured: true
+image:
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  focal_point: ''
+  preview_only: false
 ---
