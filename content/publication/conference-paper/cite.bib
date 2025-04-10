@@ -1,13 +1,3 @@
-@inproceedings{li2021point,
-  title={Point-supervised segmentation of microscopy images and volumes via objectness regularization},
-  author={Li, Shijie and Dey, Neel and Bermond, Katharina and von der Emde, Leon and Curcio, Christine A. and Ach, Thomas and Gerig, Guido},
-  booktitle={2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI)},
-  pages={1558--1562},
-  year={2021},
-  organization={IEEE},
-  doi={10.1109/ISBI48211.2021.9434067}
-}
-
 @InProceedings{10.1007/978-3-031-58171-7_3,
 author="Li, Shijie
 and Ren, Mengwei
@@ -24,31 +14,5 @@ year="2024",
 publisher="Springer Nature Switzerland",
 address="Cham",
 pages="23--32",
-abstract="Current deep learning-based approaches for the segmentation of microscopy images heavily rely on large amount of training data with dense annotation, which is highly costly and laborious in practice. Compared to full annotation where the complete contour of objects is depicted, point annotations, specifically object centroids, are much easier to acquire and still provide crucial information about the objects for subsequent segmentation. In this paper, we assume access to point annotations only during training and develop a unified pipeline for microscopy image segmentation using synthetically generated training data. Our framework includes three stages: (1) it takes point annotations and samples a pseudo dense segmentation mask constrained with shape priors; (2) with an image generative model trained in an unpaired manner, it translates the mask to a realistic microscopy image regularized by object level consistency; (3) the pseudo masks along with the synthetic images then constitute a pairwise dataset for training an ad-hoc segmentation model. On the public MoNuSeg dataset, our synthesis pipeline produces more diverse and realistic images than baseline models while maintaining high coherence between input masks and generated images. When using the identical segmentation backbones, the models trained on our synthetic dataset significantly outperform those trained with pseudo-labels or baseline-generated images. Moreover, our framework achieves comparable results to models trained on authentic microscopy images with dense labels, demonstrating its potential as a reliable and highly efficient alternative to labor-intensive manual pixel-wise annotations in microscopy image segmentation. The code can be accessed through https://github.com/CJLee94/Points2Image.",
 isbn="978-3-031-58171-7"
-}
-
-@inproceedings{li2024self,
-  title={Self-supervised OCT image denoising with slice-to-slice registration and reconstruction},
-  author={Li, Shijie and Gerig, Guido},
-  booktitle={2024 IEEE 21st International Symposium on Biomedical Imaging (ISBI)},
-  year={2024},
-  organization={IEEE}
-}
-
-@inproceedings{dey2019multi,
-  title={Multi-modal image fusion for multispectral super-resolution in microscopy},
-  author={Dey, Neel and Li, Shijie and Bermond, Katharina and Heintzmann, Rainer and Curcio, Christine A. and Ach, Thomas and Gerig, Guido},
-  booktitle={Medical Imaging 2019: Image Processing},
-  volume={10949},
-  pages={109490D},
-  year={2019},
-  organization={SPIE}
-}
-
-@patent{li2022deep,
-  title={Deep learning algorithm for X-ray image noise reduction and signal enhancement},
-  author={Li, Shijie and Hu, Yi},
-  year={2022},
-  note={Patent filed with USPTO (Attorney Docket Number: 546053US, 547638US)}
 }
