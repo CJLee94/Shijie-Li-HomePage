@@ -45,13 +45,13 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2308.09835'
 url_code: 'https://github.com/CJLee94/Points2Image.git'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
 # url_project: ''
 # url_slides: ''
-url_source: 'https://arxiv.org/abs/2308.09835'
+# url_source: ''
 # url_video: 'https://youtube.com'
 
 # Featured image
