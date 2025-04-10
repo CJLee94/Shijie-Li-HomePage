@@ -125,7 +125,7 @@ skills:
       - name: Pytorch
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: devicon/pytorch
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -133,7 +133,7 @@ skills:
       - name: Diving
         description: ''
         percent: 60
-        icon: 🤿
+        icon: diving_mask
       - name: Running
         description: ''
         percent: 100
