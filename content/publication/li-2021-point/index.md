@@ -20,4 +20,7 @@ image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ''
   preview_only: false
+tags:
+  - Weakly Supervised Learning, Image Generative Model, Image Segmentation
+abstract: Annotation is a major hurdle in the semantic segmentation of microscopy images and volumes due to its prerequisite expertise and effort. This work enables the training of semantic segmentation networks on images with only a single point for training per instance, an extreme case of weak supervision which drastically reduces the burden of annotation. Our approach has two key aspects (1) we construct a graph-theoretic soft-segmentation using individual seeds to be used within a regularizer during training and (2) we use an objective function that enables learning from the constructed soft-labels. We achieve competitive results against the state-of-the-art in point-supervised semantic segmentation on challenging datasets in digital pathology. Finally, we scale our methodology to point-supervised segmentation in 3D fluorescence microscopy volumes, obviating the need for arduous manual volumetric delineation. Our code is freely available.
 ---
