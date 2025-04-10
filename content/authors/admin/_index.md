@@ -3,7 +3,7 @@
 title: 李世杰
 
 # Name pronunciation (optional)
-name_pronunciation: CJ Li
+name_pronunciation: Li Shi Jie
 
 # Full name (for SEO)
 first_name: Shijie
