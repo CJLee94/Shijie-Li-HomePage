@@ -133,7 +133,7 @@ skills:
       - name: Diving
         description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: fa-mask-snorkel
       - name: Running
         description: ''
         percent: 100
