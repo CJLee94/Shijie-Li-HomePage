@@ -185,10 +185,10 @@ awards:
 
 ## About Me
 
-Hello! I'm Shijie (CJ) Li, a Machine Learning Researcher specializing in generative models and multimodal AI applications. I currently work as an ORISE Fellow at the FDA, where I develop AI solutions for medical imaging challenges. I completed my PhD in Computer Science at NYU, focusing on cutting-edge generative models including diffusion models and GANs.
+# About Me
 
-My research aims to bridge the gap between theoretical AI advancements and their practical applications, particularly in environments where complete data annotation is challenging. I've contributed to patented technologies in medical imaging and received recognition for my innovative approaches to reducing annotation burden while maintaining high performance.
+Hello! I'm Shijie (CJ) Li, a Machine Learning Researcher with a PhD from NYU specializing in generative models. Currently an ORISE Fellow at the FDA, I develop AI solutions for medical imaging challenges by bridging theoretical advancements with practical applications.
 
-Beyond my professional life, I'm passionate about endurance sports. As a marathon runner, skier, diver, and swimmer, I find that these activities provide both physical challenges and mental balance that complement my research work. The discipline and adaptability required in these pursuits mirror my approach to solving complex problems in AI.
+Outside of research, I'm an avid marathon runner, skier, diver, and swimmer. These endurance sports provide balance to my professional life and reflect my approach to problem-solving: disciplined, adaptable, and persistent.
 
-I'm driven by curiosity and the potential of AI to transform how we approach real-world challenges. I'm always open to connecting with fellow researchers and collaborators interested in innovative AI applications.
+I'm always open to connecting with fellow researchers and potential collaborators interested in innovative AI applications.
