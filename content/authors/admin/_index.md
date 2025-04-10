@@ -117,7 +117,7 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: devicon/python
       - name: Data Science
         description: ''
         percent: 100
@@ -133,12 +133,11 @@ skills:
       - name: Diving
         description: ''
         percent: 60
-        icon: mask-snorkel
-        icon-pack: fas 
+        icon: 🤿
       - name: Running
         description: ''
         percent: 100
-        icon: Run
+        icon: 🏃
       - name: Photography
         description: ''
         percent: 80
@@ -146,7 +145,7 @@ skills:
       - name: Swimming
         description: ''
         percent: 80
-        icon: swim
+        icon: 🏊‍♂️
 
 languages:
   - name: English
