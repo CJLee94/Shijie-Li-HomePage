@@ -133,11 +133,11 @@ skills:
       - name: Diving
         description: ''
         percent: 60
-        icon: fas/water
+        icon: custom/water-solid
       - name: Running
         description: ''
         percent: 100
-        icon: 🏃
+        icon: custom/person-running-solid
       - name: Photography
         description: ''
         percent: 80
@@ -145,7 +145,7 @@ skills:
       - name: Swimming
         description: ''
         percent: 80
-        icon: 🏊‍♂️
+        icon: custom/person-swimming-solid
 
 languages:
   - name: English
