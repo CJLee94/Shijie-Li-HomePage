@@ -141,7 +141,7 @@ skills:
       - name: Photography
         description: ''
         percent: 80
-        icon: camera
+        icon: custom/camera-retro-solid
       - name: Swimming
         description: ''
         percent: 80
